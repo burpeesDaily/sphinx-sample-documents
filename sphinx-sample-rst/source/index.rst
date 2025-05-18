@@ -1,7 +1,7 @@
 Sphinx Document using reStructuredText
 ======================================
 
-This is a sample of using reStructuredText for Sphinx documentation.
+This is a sample of Sphinx document using reStructuredText.
 
 .. toctree::
    :maxdepth: 2
